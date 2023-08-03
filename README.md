@@ -1,6 +1,8 @@
 # DevOps-Automation
 echo "Development"
 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvO1D_ZupuJrzY2AcMWDRgcuV0JKotf3He7A&usqp=CAU
+
 process of deploying a web application to a server
 
 A DevOps automation project for deploying a web application to a server involves streamlining the deployment process through various automation tools and practices. The goal is to reduce human errors, increase deployment speed, and ensure consistency across environments. Here are the key steps and components typically involved in such a project:
