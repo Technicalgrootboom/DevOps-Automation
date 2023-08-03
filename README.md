@@ -1,7 +1,6 @@
 # DevOps-Automation
 echo "Development"
-
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvO1D_ZupuJrzY2AcMWDRgcuV0JKotf3He7A&usqp=CAU
+![DevOps](https://github.com/Technicalgrootboom/DevOps-Automation/assets/91704415/ddeb696e-e73c-402e-a637-c0f201e878cd)
 
 process of deploying a web application to a server
 
